@@ -1,6 +1,5 @@
 import random
-# assignment 3
-# Huang, Peter Helin    
+# Peter Huang    
 def shuffle_deck(deck):
     '''(list of str)->None
        Shuffles the given list of strings representing the playing deck    
